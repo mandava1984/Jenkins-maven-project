@@ -1,7 +1,7 @@
 pipeline {
     agent any 
     stages {
-        stage(‘clean ‘and compile) { 
+        stage(‘clean and compile') { 
             steps {
                 sh "mvn clean c”compile 
             }
