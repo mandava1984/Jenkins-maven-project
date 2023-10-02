@@ -1,5 +1,0 @@
-#surefire_0
-#Mon Oct 02 04:05:38 UTC 2023
-basedir=/root/jenkins_maven/my-app
-user.dir=/root/jenkins_maven/my-app
-localRepository=/root/.m2/repository
