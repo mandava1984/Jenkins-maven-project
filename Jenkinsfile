@@ -3,6 +3,7 @@ pipeline {
     stages {
         stage('clean and compile') { 
             steps {
+		sh 'printenv'
                 sh "mvn clean compile"
             }
         }
